@@ -1,6 +1,6 @@
 # Data Types
 string:
-it is data types that stores sequence of characters.can write anything inside double string
+it is data types that stores sequence of characters.can write anything inside double string.we can access it but cannot manipulate it.
 Example:
 a = "Salman maqsood"
 b = "12345"
